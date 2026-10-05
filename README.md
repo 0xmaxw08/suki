@@ -1,6 +1,6 @@
-# PDA — AI Desktop Companion
+# SUKI — AI Desktop Companion
 
-A desktop companion that talks to you through a metallic, underwater suit-comm voice, like an in-suit PDA. A small local LLM handles the conversation, and a custom voice engine turns its replies into speech.
+**SUKI** (System Utility and Knowledge Interface) is a desktop companion that talks to you through a metallic, underwater suit-comm voice, like an in-suit PDA. A small local LLM handles the conversation, and a custom voice engine turns its replies into speech.
 
 > **Status:** early development. The voice engine works. The rest is planned. See the [roadmap](#roadmap).
 
@@ -100,7 +100,7 @@ Two things to know:
 ## Planned project layout
 
 ```
-pda/
+suki/
 ├── pda_engine.py     # voice (done)
 ├── brain.py          # LLM client + persona prompt
 ├── memory.py         # conversation history / long-term notes
@@ -131,4 +131,9 @@ Nothing except `pda_engine.py` exists yet. The layout is a sketch.
 
 ## License
 
-[MIT](LICENSE)
+Custom attribution license, see [LICENSE](LICENSE).
+
+- You can use the project and share unmodified copies, as long as you credit the author and link back to this repo.
+- You can't modify it or distribute changed versions without asking first. Open an issue or contact the author for permission.
+
+This is source-available, not open source. It covers only this project's own code; dependencies and models (edge-tts, scipy, Qwen, etc.) keep their own licenses.
