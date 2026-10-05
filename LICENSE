@@ -1,0 +1,46 @@
+PDA Attribution & No-Modification License
+
+Copyright (c) 2026 [YOUR NAME]. All rights reserved except as stated below.
+
+1. PERMITTED
+   You may, free of charge:
+   (a) download, run and use the Software as-is;
+   (b) copy and redistribute the Software, unmodified and in full, provided
+       you comply with section 2.
+
+2. ATTRIBUTION
+   Every copy or redistribution of the Software must:
+   (a) keep this license and the copyright notice intact;
+   (b) credit [YOUR NAME] as the original author, with a link to the original
+       repository: [REPO URL].
+   If you show or publish anything made with the Software (videos, demos,
+   posts, products), you must credit [YOUR NAME] as its creator.
+
+3. NO MODIFICATION WITHOUT PERMISSION
+   You may not modify, adapt, translate, reverse engineer, build derivative
+   works from, or redistribute altered versions of the Software, in whole or
+   in part, unless you first get written permission from the author.
+   To ask, contact: [YOUR EMAIL OR LINK]. Permission may be given or refused
+   at the author's sole discretion, and may come with conditions.
+
+4. OWNERSHIP
+   The Software is licensed, not sold. The author keeps all rights not
+   expressly granted here. Nothing in this license transfers ownership or
+   grants any right to use the author's name or branding to endorse other
+   works.
+
+5. TERMINATION
+   If you break these terms, your rights under this license end
+   automatically. To get them back you need the author's written permission.
+
+6. THIRD-PARTY COMPONENTS
+   This license covers only the author's own code. Libraries, models and
+   services the Software depends on (for example edge-tts, scipy, Qwen models)
+   keep their own licenses, and you must follow those separately.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR ITS USE.
