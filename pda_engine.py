@@ -1,12 +1,5 @@
 #!/usr/bin/env python3
 # pda voice: edge tts -> suit/underwater comm fx -> play
-#
-# colab:
-#   st = await speak("Welcome aboard, Captain. *Databank* online.")
-#   from IPython.display import Audio, display; display(Audio(st.T, rate=FS))
-# cli:
-#   python3 pda_engine.py "Welcome aboard" [--save out.wav]
-# *stars* around a word = stress it (only if STRESS is on)
 import argparse
 import asyncio
 import io
